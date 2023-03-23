@@ -16,8 +16,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | [milkknife](https://github.com/milkknife)                                               | [Mike Barkmin](https://github.com/mikebarkmin)                                                               | [Petr Razumov](https://github.com/przmv) |
 
-- **Original author**: [mikebarkmin](https://github.com/mikebarkmin)
-- **Source**: [przmv/base16-vis](https://github.com/przmv/base16-vis#base16-dracula)
+**Source**: [przmv/base16-vis](https://github.com/przmv/base16-vis#base16-dracula)
 
 ## Community
 
