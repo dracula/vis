@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/vis](https://draculatheme.com
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/vis/graphs/contributors).
 
-| [![milkknife](https://github.com/milkknife.png?size=100)](https://github.com/milkknife) |
-| ---------------------------------------------------------------------------------------- |
-| [milkknife](https://github.com/milkknife)                                               |
+| [![milkknife](https://github.com/milkknife.png?size=100)](https://github.com/milkknife) | [![Mike Barkmin](https://github.com/mikebarkmin.png?size=100)](https://github.com/mikebarkmin) | [<img alt="Petr Razumov" src="https://github.com/przmv.png" width=100px>](https://github.com/przmv) |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [milkknife](https://github.com/milkknife)                                               | [Mike Barkmin](https://github.com/mikebarkmin)                                                               | [Petr Razumov](https://github.com/przmv) |
 
 - **Original author**: [mikebarkmin](https://github.com/mikebarkmin)
 - **Source**: [przmv/base16-vis](https://github.com/przmv/base16-vis#base16-dracula)
